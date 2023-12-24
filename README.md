@@ -1,1 +1,1 @@
-# my-site-gatsby
+# gatsby-tutorial
